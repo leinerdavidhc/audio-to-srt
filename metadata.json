@@ -1,0 +1,5 @@
+{
+  "name": "Audio to SRT Transcriber",
+  "description": "An application to upload audio files, transcribe them to text with timestamps, edit the transcription, and export the result as an SRT file for video editors.",
+  "requestFramePermissions": []
+}
